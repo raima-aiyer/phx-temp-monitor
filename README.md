@@ -70,6 +70,7 @@ A Chrome Extension + Python backend that monitors the temperature in Phoenix, AZ
 ## File Structure
 ```
 TempMonitor/
+├── README.md
 ├── backend/
 │   ├── app.py
 │   ├── config.py
